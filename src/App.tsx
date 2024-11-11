@@ -5,8 +5,7 @@ import PolicyPage from './PolicyPage';
 
 const HomePage: React.FC = () => (
     <div>
-        <h1>Welcome to the Snake App!</h1>
-        <p>This is the homepage for the Snake app.</p>
+        <h1>Welcome to Blue Bonnet AI Services</h1>
     </div>
 );
 
