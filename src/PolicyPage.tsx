@@ -35,21 +35,14 @@ const PolicyPage: React.FC = () => {
             </section>
 
             <section>
-                <h2>4. Children's Privacy</h2>
-                <p>
-                    Our app is not intended for children under the age of 13. We do not knowingly collect information from children under this age.
-                </p>
-            </section>
-
-            <section>
-                <h2>5. Changes to this Privacy Policy</h2>
+                <h2>4. Changes to this Privacy Policy</h2>
                 <p>
                     We may update our Privacy Policy from time to time. Any changes will be posted on this page, and the effective date will be updated accordingly.
                 </p>
             </section>
 
             <section>
-                <h2>6. Contact Us</h2>
+                <h2>5. Contact Us</h2>
                 <p>
                     If you have any questions or concerns about this Privacy Policy, please contact us at <a href="mailto:support@snakeapp.com">support@snakeapp.com</a>.
                 </p>
